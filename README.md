@@ -6,7 +6,7 @@ Just go ahead and watch this **[Video](https://youtube.com/discordtricks)** for 
 
 # Support
 Support this project by starring it and make sure to subscribe our official **[YouTube](https://youtube.com/discordtricks)** for more such guides :)
-Also make sure to follow our **[GitHub](https://github.com/drstrangegithub)**
+Also make sure to follow our **[GitHub](https://github.com/New-Dev3)**
 
 
 *Thanks for choosing discord.js-v13_Akinator :)*
